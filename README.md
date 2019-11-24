@@ -1,6 +1,8 @@
 # Smart-Mirror-v1.0
  Source code is taken from MichiMich repositories
 
+-![TEST RESULT](https://drive.google.com/file/d/1EPtMnlEvi5QKTvO8TeF7Mf4KOl_-uGZ7/view?usp=drivesdk)
+
 ## Dependency Versions
 
 1. Raspbian-stretch-full.img(latest)
