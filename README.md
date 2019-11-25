@@ -169,10 +169,15 @@
 ```
 
 ## Install USB Mic. and Speaker
-    https://github.com/makepluscode/rpi-tips/tree/master/001-bringup-audio-and-mic
-
+     
 ```
-vi ~/.asoundrc
+   vi ~/.asoundrc
+```
+* You can also use 
+```  
+sudo nano .asoundrc
+```
+```  
 pcm.!default{
   type asym
   playback.pcm{
